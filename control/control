@@ -1,0 +1,6 @@
+Package: dinit
+Version: 0.14.0pre
+Maintainer: stylesuxx@gmail.com
+Description: Service monitoring and init system
+Priority: optional
+Architecture: armv7soft
